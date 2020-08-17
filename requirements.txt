@@ -1,2 +1,2 @@
 attrdict==2.0.*
-tornado>4.5,<=4.5.3
+tornado>5.1.0,<=4.5.3
